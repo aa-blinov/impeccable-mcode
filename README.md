@@ -114,6 +114,10 @@ Apache-2.0. This fork contains no upstream design content of its own — it is a
 packaging and portability change. Please file issues about command behaviour or
 detector output upstream, and issues about MiniMax Code packaging here.
 
+**Upstream base:** [`skill-v4.3.1`](https://github.com/pbakaus/impeccable/releases/tag/skill-v4.3.1),
+engine `v0.1.5`. This fork does not track upstream tags; to pick up changes,
+diff against that base and re-apply the four changes in the table above.
+
 ## License
 
 Apache-2.0, matching upstream.
