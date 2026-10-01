@@ -1,0 +1,5 @@
+# Engine binary — downloaded per-platform by scripts/impeccable on first run
+scripts/bin/
+
+# macOS
+.DS_Store

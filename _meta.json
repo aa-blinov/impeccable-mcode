@@ -1,0 +1,9 @@
+{
+  "name": "impeccable",
+  "version": "4.3.1",
+  "platform": "minimax",
+  "license": "Apache-2.0",
+  "source": "https://github.com/aa-blinov/impeccable-mcode",
+  "upstream": "https://github.com/pbakaus/impeccable",
+  "updated_at": 1790870000000
+}
